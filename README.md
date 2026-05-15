@@ -2,7 +2,8 @@
 
 > Gamification engine that rewards the behaviors that actually strengthen the CMDB.
 
-![CMDB Quest dashboard](screenshots/01-dashboard.png)
+<img width="1710" height="919" alt="image" src="https://github.com/user-attachments/assets/1230ca9a-08e2-44ae-97fd-b274c6187b5e" />
+
 
 **CMDB Quest** is a scoped ServiceNow application that turns CMDB stewardship into a measurable, leaderboard-driven activity. The platform automatically detects qualifying CMDB-strengthening actions and awards points and badges — no self-reporting, no opt-in, no extra work for contributors.
 
